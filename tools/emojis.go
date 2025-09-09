@@ -168,7 +168,7 @@ var Emoji = map[string]string{
 	"volatility": "📊", "recession": "📉", "recovery": "📈",
 	"growth": "📈", "expansion": "📈", "contraction": "📉",
 	"bubble": "💥", "crash": "💥", "collapse": "💥", "collapses": "💥", "crashes": "💥",
-	"rally": "📈", "sell-off": "📉", "pullback": "📉", "drop": "📉",
+	"rally": "📈", "sell-off": "📉", "pullback": "📉", "drop": "💧",
 	"surge": "📈", "spike": "📈", "plunge": "📉", "plummets": "📉",
 	"dollar": "💵", "usd": "💵", "eur": "💶", "euro": "💶",
 	"yen": "💴", "jpy": "💴", "pound": "💷", "gbp": "💷",
@@ -186,7 +186,7 @@ var Emoji = map[string]string{
 	"earnings": "📄", "revenue": "💰", "profit": "💰",
 	"ipo": "🔔", "ipos": "🔔", "merger": "🤝", "acquisition": "🤝", "deal": "🤝",
 	"partnership": "🤝", "acquire": "🤝", "acquires": "🤝",
-	"drops": "📉", "decline": "📉", "declines": "📉",
+	"drops": "💦", "decline": "📉", "declines": "📉",
 	"aircraft": "✈️", "aircrafts": "✈️",
 	"opa":      "🛍️",
 	"video":    "📹",
@@ -945,6 +945,8 @@ var Emoji = map[string]string{
 	"protein": "🧬", "proteins": "🧬",
 	"nhs": "🏥", "hospital": "🏥", "hospitals": "🏥",
 	"surgery": "🏥", "surgeries": "🏥",
+	"community": "👥", "communities": "👥",
+	"brutal": "💀", "brutality": "💀",
 }
 
 var (
